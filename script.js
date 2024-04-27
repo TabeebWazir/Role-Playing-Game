@@ -11,3 +11,5 @@ let fighting;
 let inventory = ["stick"];
 
 let monsterHealth;
+
+let button1 = document.querySelector("#button1");
